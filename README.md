@@ -1,3 +1,1 @@
 ![Image Description](ProjectScreenshots/harvested.png)
-This image shows...
-
