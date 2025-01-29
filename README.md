@@ -1,2 +1,1 @@
-![trees](ProjectScreenshots/harvested.png)
-bananana
+![Image Description](https://github.com/Blitz78/Projects/blob/main/Project%20Screenshots/harvested.png)
